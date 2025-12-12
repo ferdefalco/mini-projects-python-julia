@@ -1,6 +1,7 @@
 # machine-learning-projects
 
 - Development of some machine learning models using Python
+- Projects developed in 2022
 
 <b>1. Diabetes</b>
 > Supervised Learning - Naive Bayes and Logistic Regression
